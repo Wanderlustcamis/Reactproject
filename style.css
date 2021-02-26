@@ -1,0 +1,22 @@
+* {
+  margin: 1px;
+  padding: 2px;
+  background-color: #bad1cd;
+  color: #0e1c36;
+}
+body {
+  background-color: chocolate;
+}
+h1 {
+  color: chocolate;
+  background-color: darkgray;
+  text-align: center;
+  margin: 2px;
+  padding: 1px;
+}
+p {
+  text-align: center;
+  background-color: chocolate;
+  color: darkgray;
+  margin: 1px;
+}
